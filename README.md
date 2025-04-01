@@ -8,7 +8,7 @@
 
 <!--datocms-autoinclude-header end-->
 
-# A Company Website Demo using Next.js 14 and DatoCMS
+# Zynx Website using Next.js 14 and DatoCMS
 
 This example showcases a TypeScript Next.js 14 website with App Router (app) — using [DatoCMS](https://www.datocms.com/) as the data source.
 
